@@ -29,8 +29,7 @@
 			  <meta property="fitness:metrics:pace:value" content="0" />
 			  <meta property="fitness:metrics:pace:units" content="s/m" />
 			  <meta property="fitness:metrics:calories" content="0" />
-			  <meta property="fitness:metrics:custom_quantity:value" content="0" />
-			  <meta property="fitness:metrics:custom_quantity:units" content="SOME_UNIT_URL" />
+			 
 			
 		
 	
