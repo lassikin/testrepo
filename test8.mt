@@ -2,7 +2,6 @@
 			  <!-- Standard Open Graph object properties -->
 			  <meta property="fb:app_id"      content="718716814855614" />
 			  <meta property="og:type"        content="fitness.course" />
-			  <meta property="og:url"         content="http://yomp.app" />
 			  <meta property="og:title"       content="Some title" />
 			  <meta property="og:description" content="Some description" />
 			 
