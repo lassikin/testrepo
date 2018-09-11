@@ -1,6 +1,6 @@
 	<head>
 		  <!-- Standard Open Graph object properties -->
-		  <meta property="fb:app_id"      content="YOUR_APP_ID" />
+		  <meta property="fb:app_id"      content="718716814855614" />
 		  <meta property="og:type"        content="fitness.course" />
 		  <meta property="og:url"         content="https://raw.githubusercontent.com/lassikin/testrepo/master/test4.mt" />
 		  <meta property="og:title"       content="Some title" />
