@@ -2,7 +2,7 @@
   <!-- Standard Open Graph object properties -->
   <meta property="fb:app_id"      content="YOUR_APP_ID" />
   <meta property="og:type"        content="some.type" />
-  <meta property="og:url"         content="SOME_URL" />
+  <meta property="og:url"         content="http://yomp.app" />
   <meta property="og:title"       content="Some title" />
   <meta property="og:description" content="Some description" />
   <meta property="og:image"       content="SOME_IMAGE_URL" />
