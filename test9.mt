@@ -2,9 +2,11 @@
 			  <!-- Standard Open Graph object properties -->
 			  <meta property="fb:app_id"      content="718716814855614" />
 			  <meta property="og:type"        content="fitness.course" />
-			  <meta property="og:title"       content="Some title" />
-			  <meta property="og:description" content="Some description" />
-			 
+			 <meta property="og:url"         content="https://yomp.app" />
+		  <meta property="og:title"       content="Some title" />
+		  <meta property="og:description" content="Some description" />
+		  <meta property="og:image"       content="https://api.mapbox.com/v4/mapbox.run-bike-hike/pin-l-cross+285A98(22.5,4.3)/11.0,22.2,3/600x300@2x.png?access_token=pk.eyJ1IjoibGFzc2lraW4iLCJhIjoiY2pseG9vZWI3MGFybTNrcWRtNHZkMW8wNCJ9.ItOHOiKp-iPLD9d35YPp5g" />
+ 
 		
 	
 
